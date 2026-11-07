@@ -6,7 +6,7 @@
 
 客户端 Fabric 模组，适用于 **Minecraft 1.21.11**。不包含任何 mixin，只用公开 API。
 
-> English: [README.md](README.md)
+> English: [README.md](README.EN.md)
 
 我在刷我的世界视频时得到灵感💡从而做出这个模组，因为我自己的习惯我经常把东西随便放到箱子内，做出这个模组为了方便拿取物品，顺便分享给大家使用。（另外说明这个模组是AI制作）
 
